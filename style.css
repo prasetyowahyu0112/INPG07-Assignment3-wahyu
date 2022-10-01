@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+.container{
+    z-index: 1;
+    width: 70%;
+    margin: 0 auto;
+    border-radius: 24px;
+    background: #e45604;
+    padding: 2%;
+    box-shadow: 5px 10px 10px 10px rgba(0,0,0,0.75);
+
+}
+.card{
+    width: 84%;
+    background: rgb(51, 50, 50);
+    padding: 8%;
+    margin-bottom: 20px;
+    border-radius: 6px;
+    color: #fff;
+    
+}
+
+
+.card span{
+    font-size: 3rem;
+    font-weight: 700;
+    letter-spacing: 4px;
+}
+.card i {
+    font-size: 3rem;
+}
